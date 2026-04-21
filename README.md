@@ -1,3 +1,5 @@
+### Link Streamlit: http://localhost:8502/
+
 # 🏨 Revenue Intelligence System para Hotelaria
 
 ## 📌 Visão Geral
@@ -155,4 +157,4 @@ pip install -r requirements.txt
 ### 2. Rodar o dashboard
 
 ```bash
-streamlit run app.py
+py -m streamlit run Streamlite/app.py
